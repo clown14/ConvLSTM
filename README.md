@@ -18,3 +18,5 @@ Training should take 1 hour per video sequence of 1000 frames in an NVIDIA Titan
 Example of ultrasound video sequence and corresponding image segmentation with Convolutional LSTM (middle) and only convolutions (top)
 
 ![](./images/Picture1.png)
+
+aaaaaaaa
